@@ -9,7 +9,7 @@ var index = require('./routes/index');
 var users = require('./routes/users');
 var add = 5;
 var app = express();
-
+var ggg= 6;
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'jade');
