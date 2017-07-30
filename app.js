@@ -1,5 +1,5 @@
 var express2 = require('express');
-var path = require('path');
+var path2 = require('path');
 var favicon2 = require('serve-favicon');
 var logger = require('morgan');
 var cookieParser = require('cookie-parser');
